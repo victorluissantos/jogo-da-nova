@@ -5,6 +5,6 @@
 ## Jogo feito utilizando VisualG
 
 ![Gif do player em ação](https://raw.githubusercontent.com/victorluissantos/jogo-da-nova/main/screen.gif)
-Luz, camera e ação
-
+<p>Luz, camera e ação</p>
+<br/>
 Author: Santos L. Victor
