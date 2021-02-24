@@ -1,10 +1,10 @@
 # Jogo da Nova
 
-## Querendo criar um jogo da velha, mas pensando que já existe, então eu reinventei e o já inventado.
-
-## Jogo feito utilizando VisualG
+<p>Querendo criar um jogo da velha, mas pensando que já existe, então eu reinventei o já inventado.</p>
+<br/>
+<p>Jogo feito utilizando VisualG.</p>
 
 ![Gif do player em ação](https://raw.githubusercontent.com/victorluissantos/jogo-da-nova/main/screen.gif)
-<p>Luz, camera e ação</p>
-<br/>
-Author: Santos L. Victor
+<p>
+  Luz, camera e ação.
+</p>
