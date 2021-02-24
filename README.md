@@ -4,7 +4,7 @@
 
 ## Jogo feito utilizando VisualG
 
-![Gif do player em ação](https://github.com/victorluissantos/jogo-da-nova/screen.gif)
+![Gif do player em ação](https://raw.githubusercontent.com/victorluissantos/jogo-da-nova/main/screen.gif)
 Luz, camera e ação
 
 Author: Santos L. Victor
